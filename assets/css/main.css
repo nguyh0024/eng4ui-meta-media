@@ -2349,7 +2349,7 @@ input, select, textarea {
 	}
 
 		.image img {
-			border-radius: 8px;
+			
 			display: block;
 		}
 
@@ -2986,7 +2986,7 @@ input, select, textarea {
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+				
 				width: 16em;
 			}
 
@@ -3556,7 +3556,7 @@ input, select, textarea {
 		}
 
 		#main .spotlight .image {
-			border-color: #dddddd;
+		
 		}
 
 		#main > .main {
