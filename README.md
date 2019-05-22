@@ -1,1 +1,2 @@
-#Meta Media Project - Hieu Nguyen
+# ENG4UI Media Unit Meta Media Assignment
+Hieu Nguyen
